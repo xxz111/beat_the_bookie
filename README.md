@@ -1,4 +1,4 @@
-# Beat the bookie - Sportradar Technical test
+# Beat the bookie 
 
 ## Overview
 This project analyzes betting odds data of football matches to predict whether a match will enter the betting strategy outlined in the provided article, before the bets are known.
